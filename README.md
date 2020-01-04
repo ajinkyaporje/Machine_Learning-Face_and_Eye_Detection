@@ -7,6 +7,6 @@ please read the documentation for further assistance.
 
 opencv.org/about/
 
-In this project, we can successfuly train our machine to detect face and eye of a person.
+In this project, we successfully train our machine to detect face and eye of a person.
 the files were generated using cascade-trainer-gui, a free software that can be used to generate .xml files for computer vision algorithms.
 
